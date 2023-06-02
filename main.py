@@ -20,3 +20,4 @@ K_count = 2 * (PS_count + PS_count)
 print("Petya done: ", PS_count)
 print("Sergey done: ", PS_count)
 print("Katya done: ", K_count)
+
